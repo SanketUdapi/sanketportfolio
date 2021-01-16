@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sanketportfolio/static/css/main.f4e7898f.chunk.css",
-    "main.js": "/sanketportfolio/static/js/main.81d9afb5.chunk.js",
-    "main.js.map": "/sanketportfolio/static/js/main.81d9afb5.chunk.js.map",
+    "main.js": "/sanketportfolio/static/js/main.875ad97b.chunk.js",
+    "main.js.map": "/sanketportfolio/static/js/main.875ad97b.chunk.js.map",
     "runtime-main.js": "/sanketportfolio/static/js/runtime-main.9016e84b.js",
     "runtime-main.js.map": "/sanketportfolio/static/js/runtime-main.9016e84b.js.map",
     "static/css/2.5f2e21b4.chunk.css": "/sanketportfolio/static/css/2.5f2e21b4.chunk.css",
@@ -49,6 +49,6 @@
     "static/css/2.5f2e21b4.chunk.css",
     "static/js/2.15c34b9a.chunk.js",
     "static/css/main.f4e7898f.chunk.css",
-    "static/js/main.81d9afb5.chunk.js"
+    "static/js/main.875ad97b.chunk.js"
   ]
 }
