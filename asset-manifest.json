@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sanketportfolio/static/css/main.f4e7898f.chunk.css",
-    "main.js": "/sanketportfolio/static/js/main.d01e2f52.chunk.js",
-    "main.js.map": "/sanketportfolio/static/js/main.d01e2f52.chunk.js.map",
+    "main.js": "/sanketportfolio/static/js/main.81d9afb5.chunk.js",
+    "main.js.map": "/sanketportfolio/static/js/main.81d9afb5.chunk.js.map",
     "runtime-main.js": "/sanketportfolio/static/js/runtime-main.9016e84b.js",
     "runtime-main.js.map": "/sanketportfolio/static/js/runtime-main.9016e84b.js.map",
     "static/css/2.5f2e21b4.chunk.css": "/sanketportfolio/static/css/2.5f2e21b4.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/chatproj.cb2a9e22.webp": "/sanketportfolio/static/media/chatproj.cb2a9e22.webp",
     "static/media/css3.8fba365c.svg": "/sanketportfolio/static/media/css3.8fba365c.svg",
     "static/media/django.0779fca2.svg": "/sanketportfolio/static/media/django.0779fca2.svg",
+    "static/media/express.75fff9be.svg": "/sanketportfolio/static/media/express.75fff9be.svg",
     "static/media/firebase.dcb8338e.jpg": "/sanketportfolio/static/media/firebase.dcb8338e.jpg",
     "static/media/git-icon.c60b7e5a.svg": "/sanketportfolio/static/media/git-icon.c60b7e5a.svg",
     "static/media/github.740db6be.svg": "/sanketportfolio/static/media/github.740db6be.svg",
@@ -35,6 +36,7 @@
     "static/media/react-bootstrap.1c7d4dd1.svg": "/sanketportfolio/static/media/react-bootstrap.1c7d4dd1.svg",
     "static/media/react-router.a87b7227.svg": "/sanketportfolio/static/media/react-router.a87b7227.svg",
     "static/media/react.add74742.svg": "/sanketportfolio/static/media/react.add74742.svg",
+    "static/media/redux.0e4fb1c8.svg": "/sanketportfolio/static/media/redux.0e4fb1c8.svg",
     "static/media/slide1.14619b04.webp": "/sanketportfolio/static/media/slide1.14619b04.webp",
     "static/media/slide4.1e8ce128.webp": "/sanketportfolio/static/media/slide4.1e8ce128.webp",
     "static/media/slide5.49180ec7.webp": "/sanketportfolio/static/media/slide5.49180ec7.webp",
@@ -47,6 +49,6 @@
     "static/css/2.5f2e21b4.chunk.css",
     "static/js/2.15c34b9a.chunk.js",
     "static/css/main.f4e7898f.chunk.css",
-    "static/js/main.d01e2f52.chunk.js"
+    "static/js/main.81d9afb5.chunk.js"
   ]
 }
