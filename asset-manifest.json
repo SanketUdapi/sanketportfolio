@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/sanketportfolio/static/css/main.f4e7898f.chunk.css",
-    "main.js": "/sanketportfolio/static/js/main.9da149ce.chunk.js",
-    "main.js.map": "/sanketportfolio/static/js/main.9da149ce.chunk.js.map",
+    "main.js": "/sanketportfolio/static/js/main.418fb57a.chunk.js",
+    "main.js.map": "/sanketportfolio/static/js/main.418fb57a.chunk.js.map",
     "runtime-main.js": "/sanketportfolio/static/js/runtime-main.9016e84b.js",
     "runtime-main.js.map": "/sanketportfolio/static/js/runtime-main.9016e84b.js.map",
     "static/css/2.5f2e21b4.chunk.css": "/sanketportfolio/static/css/2.5f2e21b4.chunk.css",
-    "static/js/2.15c34b9a.chunk.js": "/sanketportfolio/static/js/2.15c34b9a.chunk.js",
-    "static/js/2.15c34b9a.chunk.js.map": "/sanketportfolio/static/js/2.15c34b9a.chunk.js.map",
+    "static/js/2.9e1a3dcf.chunk.js": "/sanketportfolio/static/js/2.9e1a3dcf.chunk.js",
+    "static/js/2.9e1a3dcf.chunk.js.map": "/sanketportfolio/static/js/2.9e1a3dcf.chunk.js.map",
     "index.html": "/sanketportfolio/index.html",
     "static/css/2.5f2e21b4.chunk.css.map": "/sanketportfolio/static/css/2.5f2e21b4.chunk.css.map",
     "static/css/main.f4e7898f.chunk.css.map": "/sanketportfolio/static/css/main.f4e7898f.chunk.css.map",
-    "static/js/2.15c34b9a.chunk.js.LICENSE.txt": "/sanketportfolio/static/js/2.15c34b9a.chunk.js.LICENSE.txt",
+    "static/js/2.9e1a3dcf.chunk.js.LICENSE.txt": "/sanketportfolio/static/js/2.9e1a3dcf.chunk.js.LICENSE.txt",
     "static/media/background_reverse.webp": "/sanketportfolio/static/media/background_reverse.d7da208b.webp",
     "static/media/bootstrap-4.997c463d.svg": "/sanketportfolio/static/media/bootstrap-4.997c463d.svg",
     "static/media/chatproj.cb2a9e22.webp": "/sanketportfolio/static/media/chatproj.cb2a9e22.webp",
@@ -28,6 +28,7 @@
     "static/media/material-ui-1.fd510ed8.svg": "/sanketportfolio/static/media/material-ui-1.fd510ed8.svg",
     "static/media/mongodb.d89a6eeb.svg": "/sanketportfolio/static/media/mongodb.d89a6eeb.svg",
     "static/media/mssql.18f84630.svg": "/sanketportfolio/static/media/mssql.18f84630.svg",
+    "static/media/newsapp.dcf18699.png": "/sanketportfolio/static/media/newsapp.dcf18699.png",
     "static/media/nodejs.52cbf9a8.svg": "/sanketportfolio/static/media/nodejs.52cbf9a8.svg",
     "static/media/postgresql.ae92b576.svg": "/sanketportfolio/static/media/postgresql.ae92b576.svg",
     "static/media/profile.bc38735c.webp": "/sanketportfolio/static/media/profile.bc38735c.webp",
@@ -47,8 +48,8 @@
   "entrypoints": [
     "static/js/runtime-main.9016e84b.js",
     "static/css/2.5f2e21b4.chunk.css",
-    "static/js/2.15c34b9a.chunk.js",
+    "static/js/2.9e1a3dcf.chunk.js",
     "static/css/main.f4e7898f.chunk.css",
-    "static/js/main.9da149ce.chunk.js"
+    "static/js/main.418fb57a.chunk.js"
   ]
 }
